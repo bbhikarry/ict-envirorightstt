@@ -1,9 +1,336 @@
 ---
-title: "My Website"
+title: "Draft communication strategy for the Environmental Justice advocate"
 ---
 
-Hello, Website!
+<!-- working copy ----->
 
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
+The widespread use of digital 'tech' has seen a sweeping change in exposure to information. It's now incredibly easy to accept, send or share messages via the Internet. Which, we'd agree, is all to the good. Perversely, this ease-of-use is facilitating digital noise, or information we tend or would like to dismiss. 'Noise' it figures, will work against our advocacy ambitions given much of the EnviroRightsTT outcomes are based on effective information delivery to our chosen audiences. Keep the faith. This paper works through practical methods and tactics for targeting diverse but potentially welcoming audiences, using modern communication practice.  
 
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+
+## <a name="analysis"></a> Analysis
+
+Our strategy considers five aspects. Namely;
+
+  1. Communication strategy. (Why, What and How)
+  1. Targeting audience. (Who) 
+  1. [Message development](#messaging). (bundling strategy with delivery)
+  1. [Monitoring](#monitoring) content, Evaluating impact of strategy,  Learning from delivery and Adjusting 
+  1. [Developing the necessary skillsets](#skillsets)
+
+## 1. Communication strategy
+
+Coming in to the project, CSOs will want to improve their communication skills. To be effective, all must develop strong internal and external communication capability. It is understood most are already great communicators, just as many are also handy at conveying information through the media or are adept at interacting directly with public and other audiences. Alongside all that we acknowledge some project participants may not consider themselves capable in the least but the need to communicate exists nevertheless. 
+
+The good news is - communicating will come naturally, so long as a few prepartory steps are taken. 
+
+<!--- Why ---->
+
+Let's look to that future. At the end of our communication training sessions
+
+  * CSOs are attuned to the gravity of environmental justice. 
+  * Are wielding communication expertise, and 
+  * are critical actors in a new and powerful network covering the front lines of environmental injustice. 
+  
+  Meaning, they are poised to alter attitudes, influence policy, and hopefully, change behaviour that impacts a wider part of society. How?  
+  
+  Needing comparisons, we'd want to look outside T&T. To nations where environmental legislation is already embedded. We will look over their stories, back to when environmental justice was unformed law. When science was not a full partner to the cause. When law couldn't contemplate judging on a thing that had no quantifiable value. Or when the simple right to enjoy nature could be sacrificed to the whims and fancies of the powerful. Then, perspective gained, we will look to home and draw parallels or even better - project scenarios for positive outcomes, hoping the opposite will not form part of the work. 
+
+The research paths will empower environmental advocates to identify burdened communities - communities with plights that may not be apparent. In quick time if all goes as planned, output - that is the ongoing narrative, will feed Trinidad and Tobago's understanding of environmental justice. The EnviroRightsTT communication ambition therefore, means doing what it takes, within the existing legal framework, to effect strategies for effective advocacy.
+
+But here's a word of caution. In seeking to achieve these goals, we'd do well to consider that success may be elusive. History shows there are winners and losers in what we are about. The table beneath speaks volumes. 
+
+||WINNERS|SECOND RUNNERS-UP|  
+|:---|:---|:---|
+|**Objectives**|.. communicate with a clear goal to mind|.. have broadly defined, or unclear objectives |
+|**Audiences**|... communicate to clearly defined groups of people|..communicated first, without defining and understanding the people who needed to hear/listen|
+|**Messages**|..communicated a small number of clear, concise, consistent and memorable ideas |.. attempted to communicate a large number of ideas of varying focus, without sufficient evidence, and did it inconsistently |
+
+## Situation Analysis
+
+Guided by the above we can now move to assess our working situation (see SWOT)
+
+
+|||
+|:---|:---|
+|**Strengths**:This is primarily an informational campaign, for which we have a good stakeholder base (CSOs) to drive rights-based advocacy. We are seeking to secure Quality of Life, which is a silver lining class of counter narrative segment to doom and gloom recession thinking|**Weaknesses**: Our project ends in 2026. The topics; Information access and Environmental rights are not mainstream considerations given current geopolitical crises. Motivating behaviour change will require time.|
+**Opportunity**: Upcoming election - The environmental justice narrative may find favour with a new government - for signing into the Escazu&acute; Agreement. |**Threat**: A recession may create distraction for access rights, already viewed as an elitist concern. Could trigger more cases of environmental injustice. |
+
+
+## Targeting audiences
+
+EnviroRightsTT messaging will, ideally, touch lots of people - bearing in mind the CSOs undergoing training will move on to message the general public on all aspects of environmental rights. It would help then, to ensure connections are effected to all target audiences. How?
+
+Population diversity provides a way to go beyond the small CSO catchment that EnviroRightsTT will touch. Thus we want to target populations by categories, and then expand those into groups. As; Category[Group A], [Group B] [etc]. The results may produce something similar to the foll:   
+
+  - the Authorities (WASA, EMA etc.)
+  - the Legals (those practising law)
+  - Parliament (those charged with making law)
+  - Students (tertiary and ... to be decided)
+  - public bodies (THA, village councils)
+  - trade and industry actors (including unions)
+  - civil society (with socio-eco, enviro-economic interests)
+  - Sponsors (EU for example)
+  - Educational (and research) institutions
+  - Families (working, retired, abroad/diaspora)
+  - Food producers (Agri-societies, cooperative)
+  - Finance sector (Credit Union, Cooperatives)
+  - Tourism stakeholders (beneficiaries of Nature's gifts)
+  - Public health actors
+  - International support groups & networks (EITI, United Way)
+  - Women in the agriculture value chain
+  - Youth wherever found
+
+Note: *This list is incomplete*. Further, the people within the groups must be contacted for information on their present interest level. The target's potential to further the cause is our main interest at this point.
+
+
+| |THINKING NOW | SHOULD BE THINKING | TIMEFRAME | KEY CHANNELS |       
+|:---|:---|:---|:---|:---|  
+|**Students** |Concerned about the future|The best future is a rights-based one |8 months|You Tube|  
+|**Women** |Unequal recognition. Difficult to claim compensation |recognition is possible|6 months|WhatsApp, FaceBook. Radio|
+|**Lawmakers** |cannot do anything about environmental rights|we are the only ones who can stabilise a wronged society|Ongoing|Webinars, Email, and WWW |
+|**Business people** |The environment is opportunity|Environmental rights protect people, sustaining business in the process |6 months|Webinar|
+
+
+**What to say to them**? 
+:Explain the logic and potential benefits of EnviroRightsTT but but but, keep a feeler out for the person who is more likely to be swayed by the emotive approach and adjust accordingly.  
+
+**Afterward, ask them for their thoughts**
+: Remember, we just want to understand Level of Interest. Their power to influence .     
+
+**What do we want them to think**?  
+: That the ideal way of life always includes respect for people, respect for nature and a balanced environment - dunno actually
+
+**Which method/or channel do they prefer**? 
+: We ask.
+
+Depending on the nature of those responses, information on the individuals will be placed into an Influence/Interest grid. We want to understand who has "Greater interest" and also "More Influence". Converting influential people matter. As to the less influential sector, resource availability will play a part in deciding 'scope' of target audiences. The tool used for stakeholder engagement planning is the Message/Audience grid. 
+
+```{r echo=FALSE, out.width='50%', fig.align='center'}
+knitr::include_graphics("https://objects-us-east-1.dream.io/et23.environmenttobago.net/influence_interest_grid.png")
+
+```
+
+
+## <a name="messaging">Message development</a>
+
+<!--- See the write-shopping file -->
+
+Messaging is not just content. It is about pushing content carrying [*establishing, clarifying, de-mystifying, justifying, emphasizing, all work*] our core messages.  A good message takes foward [*simple, clear*] ideas that guides the production of leaflets, brochures, documentaries, radio/TV interviews, posts and feature articles.
+
+A message done well considers what's already out there - and its not just that other guy doing something similar. It's information clutter, or overload, objective and subjective limits. Let's pare these down:
+
+
+||SOLUTION (*make the message*)|GOAL (*ensure that people*)|
+|:---|:---|---|
+|**Information overload**|Distinctive and few in number|Notice|    
+|**Objective limits** People can only take on a certain amount of information|Clear. Simple. Concise. Consistent | Understand |    
+|**Subjective limits**  People only take on new information when they are interested and motivated |Interesting, relevant and personalised  |Act |  
+
+**Distinctive** 
+: A good message must be strongly worded - to separate itself from the crowd (of other messages out there). It should also appeal immediately to the target audience.
+Note: "Less is more". Do not use more than three (3) messages at any time in a campaign.
+
+**Clear Concise and Simple**  
+: Nobody's getting paid enough to decipher EnviroRightsTT theory. Let's give those audiences content that requires minimal effort to understand.
+
+**Consistent**
+: The best chance of our audience taking something from our messaging is if they hear it from multiple sources - and on different occasions. Bear in mind the fate of the 2nd runner-up. If messages are inconsistent, clarity will suffer: When different activities say different things about the project, effect will be diluted. When they all say the same thing, effect is multiplied.
+Note: A good PR programme may approach different audiences in varying ways, but the coherence stays clear. Therefore, project launches, newspaper releases, adverts, telephone conversations, blog posts and case studies and the like, are all opportunities to shop messages. There's this piece of doggerel that lingers
+
+  >Say nine, they'll remember none  
+  >Say three, they take one  
+  >Say three things three times, they'll remember all.
+
+## Media
+
+**Print media**
+: We will need to negotiate with the mainstream media like  Newsday, Trinidad Guardian and Trinidad Express, seeking periodic exposure. A strategy here would be to look at each publication - they each have special sections which may suit our content (Guardian Business, Sunday editions, Newsday Tobago).
+
+Content can be feature length articles speaking to displacement or, environmental marginalisation, [e.g Life of a Beetham Estate recycler]. In similar vein, it could be the long running siltation of the St. Joseph, Maracas Valley river due to the extensive quarrying on the Acono Ridge. 
+
+Not all content needs to be written or shared equally. Pieces for the [Contact](https://chamber.org.tt/contact-magazine) (a business bi-monthly) and the Guardian business edition need not go to Newsday or the Express. Each of these publications has a tone catering to their market share - of which we should be ever mindful.  
+
+Other business oriented organisations with websites and or print publication may be targeted allowing their following meets our needs. There is a chance that creative blurbs on environmental justice can be fitted within publications such as the TTEITI reports, trade union bulletins etcetera. 
+
+These will carry the website URL and other pertinent information on the EnviroRightsTT network. Blurb example: Some image with a embossed with tagline like "Protect your local environmental defender - Ask Government to sign the Escazu&acute; Agreement now!". The case for print adverts are solid. People tend to remember print adverts more than digital ads. They also seem to attribute credibility to print adverts more than the digital equivalent.   
+
+The underlying thinking regarding the (need for) justice narrative is; draw attention to plights, situations and or inconveniences caused by nature that was compromised and people who were dis-enfranchised, draw attention where possible to other people who met with and prevailed like circumstance. This is a spin on Solutions reporting - a tactic which will be covered in Writer training sessions.
+
+
+**Digital media**  
+: Content meant for digital media will be sent for inclusion on network partner websites. These may also be pushed to outlets such as Linked-in and Facebook. Think of the strategy as - Content Placed Elsewhere and Syndicated to Our Site or (PESOS). To use an example; an article published on the Cari-Bois Network which was submitted by our writers, will aid message verification, but Calls to Action which may be placed within or at the bottom of the piece may not be allowed.       
+Note. Furthering its utility is its portability. Digital content may look shorter because the hyper-link function allows detailed explanations and referencing to be near but elsewhere.     
+
+**Own website**     
+: Digital content on a dedicated website should be the home of the EnviroRightsTT narrative. The process Places content on Our Site and Syndicates it Elsewhere (POSSE). This allows for better analytics, response as well as message adjustment. That's just those four considerations. Other benefits are; control of site visibility, quality of service, easy and timely upgrades, and contained cost. 
+
+In the opening paragraphs mention was made of possible positives, should the EnviroRightsTT network adopt Open Source for its digital toolbox. This, if entered into in a structured manner, will lower costs to civil society organisations and improve capability.             
+
+**Non Media**  
+Some target audiences may not be reachable for conversion by public media. And can include sitting politicians, cloistered officials or key individuals. Some of these may be ethically pursued - best if done person-to-person. As they too will likely have a stance. Targets for this approach (think of it as lobbying) can generated through the Message/Audience matrix.
+
+Note. Speaking notes should be prepared for these 'educated' audiences and should be tested. Show messaging to people outside the implementing team. Friends and family will do, but journalists or people close to the target audiences are better. We'd want to know if;  
+
+  - they understand
+  - are they interested? If not, we try again.
+
+Choose carefully, wisely and from the gut and select the best three messages. Then look at the best of the rest. If they contain the essential ideas incorporate those into the chosen three. Then put them to work; circulating and promoting with zest. Ensure everyone is familiar with how to use them. Every piece of external communication should be planned and executed in line with those three messages. Review, Revise and Rehearse. Monitor output to be sure that all this is actually taking place.
+
+Audit and feedback. Periodically, we'd want to take a look at any press coverage that has been generated and gauge what messages those key audiences are receiving about the project. Are our messages getting across? Do we think there is need to be persistent? Generally it is not a good idea to change messages - but if they are not working, that can be a sign that it’s time to rethink.
+
+
+**Public relations**  
+: EnviroRightsTT will benefit from extensive pblic relations. In fact, this project needs PR more than the average project given the scale of awareness required to effect the hoped-for mind-shift. As an example of the power of public relations done well, let's bring back to mind the success of [CAISO](https://caisott.org/what-we-do/) founder Colin Robinson (RIP). In 2019 he admirably fronted the awareness movement, main-streaming sexual orientation and gender identity rights. He accepted interviews (engineered them more like), made the fight personal and became the local voice of the LGBQ community. In time his charisma overcame what quite easily could have become a rejection of the CAISO's mission and messaging.  
+
+Colin's strategy involved more than speaking 'LGBQ'. He mobilised his movement into the social justice arena (always speaking solidarity) thereby making it easier for the public to give listening room to the CAISO - ultimately creating greater public empathy to that particular community's needs.    
+
+## Establish the timeline
+
+In practice a term member should take responsibility for product development, timeline adhesion, and eventual success/or failure of the targeting/messaging exercise.  
+
+## <a name="monitoring">Monitoring, evaluation, learning and adjustment</a>
+
+
+The approach for Evaluation, Learning and Adjusting to the thrust should informed by; 
+
+  - Web analytics, 
+  - PR feedback on messaging implemented via air, face and static media, 
+  - frequency of article publication, and ongoing review press generated material (looking for variances to messages - as editors may chop a submission)  
+  - behaviour change. The only method we can afford to monitor now is movement/or no movement, in civilian requests to the FOI unit, or advances thru the [Environmental Management Authority](https://www.energy.gov.tt/wp-content/uploads/2021/07/Environmental-Management-Act-35.05.pdf) or [Environmental Commission](https://ec.gov.tt/images/rules/ec_rules_prac.pdf) mechanisms. 
+  - queries fielded via email or otherwise.
+
+Constant monitoring of the above is important to prevent deviation from the core messages. But it also provides new material or, related new material, which will if deployed, may forestall campaign fatigue (on our side), just as it fends off information overload or rejection on the receiving side.   
+
+Note. There are two dimensions to communications namely; the Pusher and the Receiver. Our entire effort has to be sensitive to the latter (consider the 'noise' factor). Think. Outright rejection is not an option and feedback - even disagreement is key to continued engagement. 
+
+## <a name="skillsets"></a> Required skillset
+
+  - Opinion survey
+  - Mapping
+  - Managing photo ops
+  - Writing
+    - key messages
+    - feature articles
+    - blog posts
+    - speaking notes
+      - proof points
+    - Press Releases
+      - informed by messaging template
+  - PR
+    - informed by key messages
+  - Handling the interview
+    - Q & A document
+  - Radio
+  - Live TV
+  - Taped Messaging
+    - Documentary
+    - Podcast
+  - Website 
+    - wireframe
+    - populating
+    - syndiciating
+  - Branding
+  - Media monitoring
+    - Message analysis
+    - Web traffic analysis
+  - Curating content 
+
+## Kit
+
+  - Promotional items
+    - Banner
+  - Audio-visual gear
+  - Workshop tools
+    - Whiteboard or
+    - Easel w sheets
+    - Markers
+    - Post-its
+    - Extension cords w
+      - multi-outlet connctors 
+
+## Workshop venue
+
+  - Lighting
+  - Toilets
+  - Good water supply  
+  - Parking
+  
+## Eventing
+
+  - event website
+    - pre
+    - post
+  - invitee list
+  - advance PR
+
+## TOOLBOX
+
+### The writeshop
+
+
+## What is a participatory interactive workshop?
+
+A participatory interactive workshop involves project lead, partners and other participants working actively towards a particular objective: to arrive at a written understanding of something that will be new for the participants. Session will facilitate discussion and collaborative activities that shall enable exploration of a/the specific topic - allows  reflection on issues and sharing of experiences. Participatory writeshops in short, helps with analysis, sharing and enhancement of knowledge.
+
+## Why write?
+
+ To service our hoped projected outcomes we "*will enhance capacity of civil society organisations in T&T*"; In context, we expect civil society to enhance their communication skills and capability.  
+  
+EnviroRights "*will advocate for and support vulnerable groups wishing to access environmental information*", meaning CSOs will need to inform and motivate both vulnerable and wider public as to How and Why. This will require messaging.  
+  
+EnviroRights "*will support those wanting to participate in decision-making processes, hoping to exercise their right to a healthy environment*. This contemplates changing behaviour. This requires skilful and trustworthy message crafting and delivery.
+  
+Its workflow addresses the critical need for data, and seeks to provide enhanced understanding of the legislative framework encompassing 'environmentalism' in the T&T context. 
+
+Furthermore, it attempts to widen appreciation within civil society of who is doing what and where as pertains to T&T's natural spaces. For this vision to become real however, in-depth conversations are required.
+
+## How, with a bit of What 
+
+The implementers will facilitate/conduct a series of participatory workshops in support of NGOs wishing to foster and drive the  environmental justice narrative. This advocacy campaign will benefit from expert oversight (of ELAW and the Global Parliamentary Alliance). These workshops fit the project's aim to build and focus CSO capacity to generate content with potential to heighten awareness of environmental rights. Expected outputs are: 
+
+  1. A rights focussed campaign highlighting Access issues (to information that can impact sustainable development). Also backstories on FOI requests or environmentally linked negative situations that in time might require mediation or legal intervention. 
+  
+  1. Build and curate, an online platform with publishing support for CSOs commenting, or reporting on the environmental justice space.
+
+  1. Coordinate and bring into relevance, the legal and scientific support. [as facilitated by eLAW and PGA].
+
+  1. Active encouragement of advocacy. [Case studies are passed to the [Studio mechanism](#studio) using on-ground instances which have potential to trigger requests to the FOI unit, or can be drawn to the attention of the EMA and the Environmental Commission. 
+
+  1. Improving the quality of country Governance. To which end the cadre of writers coming out of EnviroRightsTT writeshop component will produce content. This effort will be guided too by the community community strategy (mentioned above) and again, by events relevant to the EnviroRightsTT environmental justice agenda and overall timeline.    
+
+
+```{r echo=FALSE}
+knitr::include_graphics("https://objects-us-east-1.dream.io/et23.environmenttobago.net/writeshop_prep.png")
+```
+
+### Wireframe
+
+```{r echo=FALSE}
+knitr::include_graphics("https://objects-us-east-1.dream.io/et23.environmenttobago.net/wireframe.png")
+
+```
+
+###  <a name="studio">Studio</a>
+
+The studio outputs the content for both WWW and other methods of outreach. It will originate with Environment Tobago but morph into a collaboration of the CSO's after the EnviroRightsTT end date. The intention is to inform and motivate the public longterm.    
+
+The website will be curated by a group drawn from the participating CSOs. Their task will be to publish content submitted by advocates (initially drawn from those who were exposed to the training). Note that 'content' may include articles, commentary and film. The publishing/curation process entails categorisation, search optimisation, allowing retrieval of case histories etc.
+
+The website - a robust Content Management system (CMS), allows each contributor a profile and a space to publish. This still needs to thought out but options exist. For example the Black Deer Foundation may have one or three authors under the Black Deer profile, or each may have his/her profile as individuals - as affiliations will vary over time. 
+ 
+Questions may arise as to CSO commitment to the campaign. This can be addressed at the inception of the hands-on advocacy training exercise. One hopes that the provision of the platform for the authors/film-makers to publish content under their own name is incentive enough.    
+
+***
+
+[Download](https://drive.google.com/file/d/1NAtdP9qGD__jvk47_mFA_MM_GH34wqoL/view?usp=drivesdk) the printable version.   
+
+[View/Edit](https://docs.google.com/document/d/1jNtG7hu2JYAVYs8Ed_uCg0fSUcz9gvbI/edit?usp=sharing&ouid=105299374789403365422&rtpof=true&sd=true) it in Google Docs
+
+
+<!---
+now on to the nitty gritties
+--->
+Check out the [writeshop workplan](
+https://docs.google.com/document/d/1Xfesm_nV7HRyiE03fEGIBgmq4gLwmVC6/edit?usp=sharing&ouid=105299374789403365422&rtpof=true&sd=true)
+
+
